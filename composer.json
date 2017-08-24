@@ -1,0 +1,12 @@
+{
+    "name": "samcarlton/endpoint-proxy",
+    "description": "Keeps your endpoints all together incase you need to change them after you've already launch your app.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sam Carlton",
+            "email": "sam@sam.lc"
+        }
+    ],
+    "require": {}
+}
