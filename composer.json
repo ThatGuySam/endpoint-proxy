@@ -8,5 +8,8 @@
             "email": "sam@sam.lc"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "vlucas/phpdotenv": "^2.4"
+    }
 }
