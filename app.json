@@ -1,0 +1,15 @@
+{
+  "name": "Endpoint Proxy",
+  "description": "Redirect endpoints through your own server just in case you have to change them after launching. ",
+  "repository": "https://github.com/ThatGuySam/endpoint-proxy",
+  "env": {
+    "endpoint-index": {
+      "description": "What / redirects to. ",
+      "value": "https://google.com"
+    },
+    "endpoint-somepath": {
+      "description": "What /somepath redirects to. ",
+      "value": "https://yahoo.com"
+    }
+  }
+}
